@@ -1,5 +1,12 @@
 ## Workshop Week 1
 
+# Workshop แต่ละข้อจะถูกรวบรวมอยู่ใน function ตามหัวข้อเช่น Workshop 1.1 จะใช้อยู่ใน function w1_1
+
+# วิธีการ Run
+```js
+w1_1();
+```
+
 # Workshop 1.1
 
 1. สร้างตัวแปรเก็บข้อมูลนักเรียน ในรูปแบบของ object โดยใช้ชื่อตัวแปรว่า student
