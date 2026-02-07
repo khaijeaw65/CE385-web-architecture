@@ -13,7 +13,7 @@
 5. ใช้ if check หาก index ปัจจุบัน / 2 ได้เศษไม่กับเท่ากับ 0 โดยใช้ mod (%) เพื่อ check index ปัจจุบันเป็นเลขคี่หรือไม่ หากใช่ ทำการคูณ index ปัจจุบัน เข้ากับ value ของ productOdd จากนั้น assign กลับไปที่ productOdd ดังเดิม
 
 
-## Workshop 3.1
+## Workshop 3.2
 
 ### ขั้นตอนการทำงาน
 1. สร้าง function calculateBMI โดยกำหนด parameter weight, height ตามโจทย์
