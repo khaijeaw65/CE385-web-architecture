@@ -1,4 +1,4 @@
-# Workshop Week 3
+# Workshop Week 4
 
 ## วิธีการ test
 เรียกใช้ function w4_1, w4_2, w4_3 หรือ w4_4  เพื่อ test การทำงานตามโจทย์
